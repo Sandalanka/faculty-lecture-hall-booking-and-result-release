@@ -1,0 +1,152 @@
+header{
+    padding:20px;
+    background-color:rgb(113212, 80, );
+    background-image: url(78.png);
+    text-align:center; 
+}
+header div.date{
+    color:black;
+    font-size: 20px;
+}
+header h1{
+    color:black;
+    font-size: 18px;
+}
+header div.img{
+    float: left;
+}
+.topnav {
+    overflow: hidden;
+    background-color:maroon;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color:maroon;
+  }
+  .login{
+    width: 350px;
+    margin: 100px auto;
+    background-color: #f2f2f2;
+
+}
+p{
+    margin-bottom: 15px;
+}
+p.error{
+    background: red;
+    color: white;
+    padding: 10px;
+
+}
+main{
+    width: 1000px;
+    margin: 10px auto;
+}
+main h1{
+    margin-bottom: 20px;
+    font-size: 55px;
+    color: red;
+}
+main h2{
+    margin-bottom: 20px;
+    font-size: 45px;
+    color: blue;
+}
+
+input{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+button{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+  
+}
+form.userform label{
+    width: 30%;
+    float: left;
+}
+form.userform input{
+    width: 60%;
+}
+form.userform button{
+    width: 200px;
+}
+table.masterlist{
+    width: 100%;
+border-collapse: collapse;
+}
+table.masterlist th{
+    background-color: #aaa;
+    text-align: left;
+}
+table.masterlist th,table.masterlist td{
+    padding: 10px;
+    border-bottom: 1px solid #aaa;
+}
+main{
+    width: 1000px;
+    margin: 10px auto;
+}
+main h1{
+    margin-bottom: 20px;
+    font-size: 55px;
+    color: red;
+}
+main h2{
+    margin-bottom: 20px;
+    font-size: 45px;
+    color: blue;
+}
+
+  
+ div.asp input[type=text] {
+    width: 100%;
+    background-color: rgb(199, 218, 199);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  div.asp input[type=number] {
+    width: 100%;
+    background-color: rgb(199, 218, 199);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+ div.asp input[type=submit]:hover {
+    background-color: rgb(118, 118, 240);
+  }
+  
+  div.asp {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  main span{
+    font-size: 20px;
+}
